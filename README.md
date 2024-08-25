@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepak020202/Deepak020202/blob/main/banner.jfif)
+
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate IT student with a keen interest in software development</h3>
 
