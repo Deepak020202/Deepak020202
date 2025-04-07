@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Tech Enthusiastic</h3>
 
 ## About Me 
-Hi, I’m Deepak Patel, passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. 
+I’m passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. 
 ## 🛠️ Skiils
 
 ### 🖥️ OS & Networking
