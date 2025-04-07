@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Tech Enthusiastic</h3>
 
+<a href="https://linkedin.com/in/deepak patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak patel" height="30" width="40" /></a>
+</p>
+
+
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/026/344/414/non_2x/happy-man-with-laptop-flat-line-concept-spot-illustration-programmer-coding-2d-cartoon-outline-character-on-white-for-web-ui-design-freelance-editable-isolated-color-hero-image-vector.jpg">
 
 
