@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Tech Enthusiastic</h3>
 
 
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/3b0b03e1-a3d1-437c-8d46-f2149b9b00da)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b0b03e1-a3d1-437c-8d46-f2149b9b00da/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf" alt="coding" width="400" />
+</p>
 
 ## About Me 
 
