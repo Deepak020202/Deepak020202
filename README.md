@@ -20,7 +20,7 @@
 
 ## 🛠️ Skiils
 
-<!-- Skill Icons Section (Commented Out) 
+Skill Icons Section (Commented Out) 
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;&nbsp;
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;
@@ -38,6 +38,5 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
--->
 
 
