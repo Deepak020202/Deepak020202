@@ -9,7 +9,8 @@
 
 ## About Me 
 
-I’m passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. I’m eager to apply my skills in a DevOps or Cloud Engineering role, where I can contribute to automation, scalability, and infrastructure optimization while continuously learning and growing. Let’s connect and explore opportunities to shape the future of technology together!
+### I’m passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. I’m eager to apply my skills in a DevOps or Cloud Engineering role, where I can contribute to automation, scalability, and infrastructure optimization while continuously learning and growing. Let’s connect and explore opportunities to shape the future of technology together!
+
 ## 🛠️ Skiils
 
 ### 🖥️ OS & Networking
