@@ -18,11 +18,26 @@
 <a href="https://linkedin.com/in/deepak patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak patel" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+## 🛠️ Skiils
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak020202&show_icons=true&locale=en&layout=compact" alt="deepak020202" /></p>
+<!-- Skill Icons Section (Commented Out) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak020202&show_icons=true&locale=en" alt="deepak020202" /></p>
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) &nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) &nbsp;&nbsp;
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) &nbsp;&nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
+-->
 
 
