@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">DevOps Enthusiastich3</>
+<h3 align="center">DevOps Enthusiastic </h3>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## About Me 
 
-### I’m passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. I’m eager to apply my skills in a DevOps or Cloud Engineering role, where I can contribute to automation, scalability, and infrastructure optimization while continuously learning and growing. Let’s connect and explore opportunities to shape the future of technology together!
+### I’m passionate about cloud-native technologies, automation, and modern DevOps practices that enhance software delivery and infrastructure management. I’m eager to apply my skills in a DevOps or Cloud Engineering role, where I can contribute to automation, scalability, and infrastructure optimization while continuously learning and growing!
 
 ## 🛠️ Skiils
 
