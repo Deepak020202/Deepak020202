@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Tech Enthusiastic</h3>
+<h3 align="center">DevOps Enthusiastich3</>
 
 
 <p align="center">
